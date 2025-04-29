@@ -1,5 +1,5 @@
 <h1>Hi, I'm Henry! <br/>
-  <a href="https://github.com/masereti7">Programmer</a>, 
+  <a href="https://github.com/masereti7"></a>, 
   <a href="#">Front-End Developer</a>, 
   <a href="https://www.youtube.com/@Wizreddy10">YouTuber</a>
 </h1>
